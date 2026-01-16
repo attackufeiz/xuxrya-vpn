@@ -1,7 +1,7 @@
 #profile-title: xuxrya vpn
 #support-url: @attackufeiz
 #announce: xuxrya vpn - круто
-#profile-update-interval: 1
+#profile-update-interval: 24
 
 vless://001f029f-27e9-4bdd-a417-a221e562777d@s9.ipbegir.com:443?security=reality&encryption=none&pbk=bQPnghTtDxknIOc6OVEt9rKetZDmkmEBN76MFi_nL0k&headerType=none&fp=firefox&spx=%2Ffavicon.ico&type=tcp&flow=xtls-rprx-vision&sni=login.steampowered.com&sid=b039d6#%F0%9F%87%A7%F0%9F%87%B7%20attackufeiz
 trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20attackufeiz%20
@@ -26,4 +26,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.79.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ww20.sgxaniu.qzz.io&type=ws&sni=ww20.sgxaniu.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 vless://00a85603-d8c6-437d-a8bd-ea521107bd87@139.28.96.83:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=danfeng.ye.gs&type=ws&sni=danfeng.ye.gs#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20vless-DE
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%5Bopenproxylist.com%5D%20vless-AT
+
 
