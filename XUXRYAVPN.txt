@@ -1,0 +1,19 @@
+#profile-title: xuxrya vpn
+#support-url: @attackufeiz
+#announce: xuxrya vpn - круто
+#profile-update-interval: 1
+
+vless://001f029f-27e9-4bdd-a417-a221e562777d@s9.ipbegir.com:443?security=reality&encryption=none&pbk=bQPnghTtDxknIOc6OVEt9rKetZDmkmEBN76MFi_nL0k&headerType=none&fp=firefox&spx=%2Ffavicon.ico&type=tcp&flow=xtls-rprx-vision&sni=login.steampowered.com&sid=b039d6#%F0%9F%87%A7%F0%9F%87%B7%20attackufeiz
+trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20attackufeiz%20
+vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJwcmVtaXVtIGtleSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks#%F0%9F%87%A9%F0%9F%87%AAattackufeiz%20
+vless://493d5565-9c06-4d2f-a252-cbd9d2be3516@nl.takovpn.ru:443?security=reality&encryption=none&pbk=r2-SJzA8X3b0smshnMdHuvAE73xOjh7bTQuJLFczvwk&headerType=none&fp=chrome&type=tcp&sni=sun6-20.userapi.com&sid=3de7aafb#0115%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20Whitelist%20%7C%20%F0%9F%8C%8D%20Unknown%20%7C%20VLESS%20%7C%20TG%3A%20%40STR_BYPASS%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw%3D%3D@95.164.10.228:443#attackufeiz
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2FTelegram---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#attackufeiz1%20
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20attackufeiz%20
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&headerType=none&type=tcp&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%2C%20attackufeiz%20
+trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?path=%2F&security=tls&host=_acme-challenge.2go.cloudns.be&type=ws&sni=_acme-challenge.2go.cloudns.be#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20attackufeiz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@23.95.76.59:990#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2C%20attackufeiz%20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUDRaOUozUzZ0QWxkQ2FTZEN0YVpSN2dadFY3clFnMA%3D%3D@64.31.63.92:443#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
