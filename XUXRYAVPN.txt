@@ -3,14 +3,11 @@
 #announce: xuxrya vpn - круто
 #profile-update-interval: 24
 
-vless://01010101@telegramkanal:443?security=&encryption=none&headerType=none&type=tcp#by%20-%20attackufeiz
 vless://001f029f-27e9-4bdd-a417-a221e562777d@s9.ipbegir.com:443?security=reality&encryption=none&pbk=bQPnghTtDxknIOc6OVEt9rKetZDmkmEBN76MFi_nL0k&headerType=none&fp=firefox&spx=%2Ffavicon.ico&type=tcp&flow=xtls-rprx-vision&sni=login.steampowered.com&sid=b039d6#%F0%9F%87%A7%F0%9F%87%B7%20attackufeiz
-trojan://iCfh96DEJn3%3DQRbzF.Tdl@212.192.214.46:18069?security=tls&headerType=none&type=tcp&sni=www.vk.com#%F0%9F%87%AC%F0%9F%87%A7%20attackufeiz%20
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJwcmVtaXVtIGtleSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.199.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks#%F0%9F%87%A9%F0%9F%87%AAattackufeiz%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw%3D%3D@95.164.10.228:443#attackufeiz
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2FTelegram---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#attackufeiz1%20
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20attackufeiz%20
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&headerType=none&type=tcp&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8%20Iceland%2C%20attackufeiz%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@23.95.76.59:990#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%2C%20attackufeiz%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%5BBL%5D
@@ -21,10 +18,10 @@ vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#%5Bopenproxylist.com%5D%20CA%204897097
 vmess://eyJhZGQiOiJ0MS42MjA3MjAueHl6IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0MS42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IltvcGVucHJveHlsaXN0LmNvbV0gSlAgMTEzMzkyMDAiLCJzY3kiOiJhdXRvIiwic25pIjoidDEuNjIwNzIwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://89f99086-e244-41dc-ab20-c1d8763399d0@spb-node.genadata.online:2040?security=reality&encryption=none&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=50ed6f6007515d63#%F0%9F%87%B7%F0%9F%87%BA%5Bopenproxylist.com%5D%20vless-RU
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@193.135.174.135:990#%F0%9F%87%AE%F0%9F%87%B8%5Bopenproxylist.com%5D%20ss-IS
 vless://e258977b-e413-4718-a3af-02d75492c349@172.64.79.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ww20.sgxaniu.qzz.io&type=ws&sni=ww20.sgxaniu.qzz.io#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 vless://00a85603-d8c6-437d-a8bd-ea521107bd87@139.28.96.83:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=danfeng.ye.gs&type=ws&sni=danfeng.ye.gs#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20vless-DE
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@dfg.octopusss.net:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%F0%9F%87%A6%F0%9F%87%B9%5Bopenproxylist.com%5D%20vless-AT
+
 
 
 
