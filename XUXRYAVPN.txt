@@ -1,6 +1,6 @@
 #profile-title: xuxrya vpn
 #support-url: @attackufeiz
-#announce: autoupdate 3/24
+#announce: autoupdate every 8 hours
 #profile-update-interval: 8
 
 vmess://eyJhZGQiOiI4NS4xOTUuMTAxLjEyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwODc4IiwicHMiOiJwcmVtaXVtIGtleSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -26,6 +26,7 @@ vless://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?mode=auto&path=%
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#%5Bopenproxylist.com%5D%20CA%204897097
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.148.79:443?mode=gun&security=none&encryption=none&type=grpc#%5Bopenproxylist.com%5D%20DE%2012511396
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%5Bopenproxylist.com%5D%20NL%205664246
+
 
 
 
